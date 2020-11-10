@@ -8,17 +8,13 @@
 </div>
 
 <h1 align="center">
-    SNAKE
+    SNAKE JS
 </h1>
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
   <a href="https://app.codacy.com/app/mesquita09/jogo-snake?utm_source=github.com&utm_medium=referral&utm_content=mesquita09/jogo-snake&utm_campaign=Badge_Grade_Dashboard">
     <img alt="Codacy grade" src="https://api.codacy.com/project/badge/Grade/d20792ff896d4ab2981307d37e88c19f">
-  </a>
-
-  <a href="https://travis-ci.org/dbader/node-datadog-metrics">
-    <img alt="Codacy grade" src="https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square">
   </a>
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mesquita09/jogo-snake.svg">
